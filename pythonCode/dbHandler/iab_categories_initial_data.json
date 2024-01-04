@@ -1,0 +1,856 @@
+{
+  "iabCategories": {
+    "IAB1": {
+      "name": "Arts & Entertainment",
+      "keywords": [
+        "entertainment",
+        "game",
+        "book",
+        "read",
+        "paparazzi",
+        "celebritie",
+        "fashion",
+        "art",
+        "film",
+        "actor"
+      ],
+      "websites": []
+    },
+    "IAB1-1": {
+      "name": "Books & Literature",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB1-2": {
+      "name": "Celebrity Fan/Gossip",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB1-3": {
+      "name": "Fine Art",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB1-4": {
+      "name": "Humor",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB1-5": {
+      "name": "Movies",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB1-6": {
+      "name": "Music",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB1-7": {
+      "name": "Television",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2": {
+      "name": "Automotive",
+      "keywords": [
+        "automotive",
+        "car",
+        "road",
+        "mororcycle",
+        "riding",
+        "tire",
+        "raceing",
+        "truck",
+        "wheel",
+        "engine"
+      ],
+      "websites": []
+    },
+    "IAB2-1": {
+      "name": "Auto Parts",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-2": {
+      "name": "Auto Repair",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-3": {
+      "name": "Buying/Selling Cars",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-4": {
+      "name": "Car Culture",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-5": {
+      "name": "Certified Pre-Owned",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-6": {
+      "name": "Convertible",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-7": {
+      "name": "Coupe",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-8": {
+      "name": "Crossover",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-9": {
+      "name": "Diesel",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-10": {
+      "name": "Electric Vehicle",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-11": {
+      "name": "Hatchback",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-12": {
+      "name": "Hybrid",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-13": {
+      "name": "Luxury",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-14": {
+      "name": "MiniVan",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-15": {
+      "name": "Mororcycles",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-16": {
+      "name": "Off-Road Vehicles",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-17": {
+      "name": "Performance Vehicles",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-18": {
+      "name": "Pickup",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-19": {
+      "name": "Road-Side Assistance",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-20": {
+      "name": "Sedan",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-21": {
+      "name": "Trucks & Accessories",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-22": {
+      "name": "Vintage Cars",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB2-23": {
+      "name": "Wagon",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB3": {
+      "name": "Business",
+      "keywords": [
+        "business",
+        "buy",
+        "sell",
+        "market",
+        "company",
+        "customer",
+        "finance",
+        "profit",
+        "taxes",
+        "product"
+      ],
+      "websites": []
+    },
+    "IAB3-1": { "name": "Advertising", "keywords": [], "websites": [] },
+    "IAB3-2": { "name": "Agriculture", "keywords": [], "websites": [] },
+    "IAB3-3": { "name": "Biotech/Biomedical", "keywords": [], "websites": [] },
+    "IAB3-4": { "name": "Business Software", "keywords": [], "websites": [] },
+    "IAB3-5": { "name": "Construction", "keywords": [], "websites": [] },
+    "IAB3-6": { "name": "Forestry", "keywords": [], "websites": [] },
+    "IAB3-7": { "name": "Government", "keywords": [], "websites": [] },
+    "IAB3-8": { "name": "Green Solutions", "keywords": [], "websites": [] },
+    "IAB3-9": { "name": "Human Resources", "keywords": [], "websites": [] },
+    "IAB3-10": { "name": "Logistics", "keywords": [], "websites": [] },
+    "IAB3-11": { "name": "Marketing", "keywords": [], "websites": [] },
+    "IAB3-12": { "name": "Metals", "keywords": [], "websites": [] },
+    "IAB4": {
+      "name": "Careers",
+      "keywords": [
+        "employment",
+        "job",
+        "career",
+        "occupation",
+        "work",
+        "recruitment",
+        "hiring",
+        "cv",
+        "resume",
+        "interview"
+      ],
+      "websites": []
+    },
+    "IAB4-1": { "name": "Career Planning", "keywords": [], "websites": [] },
+    "IAB4-2": { "name": "College", "keywords": [], "websites": [] },
+    "IAB4-3": { "name": "Financial Aid", "keywords": [], "websites": [] },
+    "IAB4-4": { "name": "Job Fairs", "keywords": [], "websites": [] },
+    "IAB4-5": { "name": "Job Search", "keywords": [], "websites": [] },
+    "IAB4-6": {
+      "name": "Resume Writing/Advice",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB4-7": { "name": "Nursing", "keywords": [], "websites": [] },
+    "IAB4-8": { "name": "Scholarships", "keywords": [], "websites": [] },
+    "IAB4-9": { "name": "Telecommuting", "keywords": [], "websites": [] },
+    "IAB4-10": { "name": "U.S. Military", "keywords": [], "websites": [] },
+    "IAB4-11": { "name": "Career Advice", "keywords": [], "websites": [] },
+    "IAB5": {
+      "name": "Education",
+      "keywords": [
+        "education",
+        "learning",
+        "school",
+        "classroom",
+        "teacher",
+        "student",
+        "curriculum",
+        "course",
+        "university",
+        "tutoring"
+      ],
+      "websites": []
+    },
+    "IAB5-1": { "name": "7-12 Education", "keywords": [], "websites": [] },
+    "IAB5-2": { "name": "Adult Education", "keywords": [], "websites": [] },
+    "IAB5-3": { "name": "Art History", "keywords": [], "websites": [] },
+    "IAB5-4": {
+      "name": "College Administration",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB5-5": { "name": "College Life", "keywords": [], "websites": [] },
+    "IAB5-6": { "name": "Distance Learning", "keywords": [], "websites": [] },
+    "IAB5-7": {
+      "name": "English as a 2nd Language",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB5-8": { "name": "Language Learning", "keywords": [], "websites": [] },
+    "IAB5-9": { "name": "Graduate School", "keywords": [], "websites": [] },
+    "IAB5-10": { "name": "Homeschooling", "keywords": [], "websites": [] },
+    "IAB5-11": {
+      "name": "Homework/Study Tips",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB5-12": { "name": "K-6 Educators", "keywords": [], "websites": [] },
+    "IAB5-13": { "name": "Private School", "keywords": [], "websites": [] },
+    "IAB5-14": { "name": "Special Education", "keywords": [], "websites": [] },
+    "IAB5-15": { "name": "Studying Business", "keywords": [], "websites": [] },
+    "IAB6": {
+      "name": "Family & Parenting",
+      "keywords": [
+        "family",
+        "parenting",
+        "child",
+        "kids",
+        "parent",
+        "parenthood",
+        "momther",
+        "baby",
+        "son",
+        "daughter"
+      ],
+      "websites": []
+    },
+    "IAB6-1": { "name": "Adoption", "keywords": [], "websites": [] },
+    "IAB6-2": { "name": "Babies & Toddlers", "keywords": [], "websites": [] },
+    "IAB6-3": { "name": "Daycare/Pre School", "keywords": [], "websites": [] },
+    "IAB6-4": { "name": "Family Internet", "keywords": [], "websites": [] },
+    "IAB6-5": {
+      "name": "Parenting - K-6 Kids",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB6-6": { "name": "Parenting teens", "keywords": [], "websites": [] },
+    "IAB6-7": { "name": "Pregnancy", "keywords": [], "websites": [] },
+    "IAB6-8": { "name": "Special Needs Kids", "keywords": [], "websites": [] },
+    "IAB6-9": { "name": "Eldercare", "keywords": [], "websites": [] },
+    "IAB7": {
+      "name": "Health & Fitness",
+      "keywords": [
+        "health",
+        "fitness",
+        "wellness",
+        "exercise",
+        "nutrition",
+        "living",
+        "loss",
+        "diet",
+        "medicine",
+        "patient"
+      ],
+      "websites": []
+    },
+    "IAB7-1": { "name": "Exercise", "keywords": [], "websites": [] },
+    "IAB7-2": { "name": "A.D.D.", "keywords": [], "websites": [] },
+    "IAB7-3": { "name": "AIDS/HIV", "keywords": [], "websites": [] },
+    "IAB7-4": { "name": "Allergies", "keywords": [], "websites": [] },
+    "IAB7-5": {
+      "name": "Alternative Medicine",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB7-6": { "name": "Arthritis", "keywords": [], "websites": [] },
+    "IAB7-7": { "name": "Asthma", "keywords": [], "websites": [] },
+    "IAB7-8": { "name": "Autism/PDD", "keywords": [], "websites": [] },
+    "IAB7-9": { "name": "Bipolar Disorder", "keywords": [], "websites": [] },
+    "IAB7-10": { "name": "Brain Tumor", "keywords": [], "websites": [] },
+    "IAB7-11": { "name": "Cancer", "keywords": [], "websites": [] },
+    "IAB7-12": { "name": "Cholesterol", "keywords": [], "websites": [] },
+    "IAB7-13": {
+      "name": "Chronic Fatigue Syndrome",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB7-14": { "name": "Chronic Pain", "keywords": [], "websites": [] },
+    "IAB7-15": { "name": "Cold & Flu", "keywords": [], "websites": [] },
+    "IAB7-16": { "name": "Deafness", "keywords": [], "websites": [] },
+    "IAB7-17": { "name": "Dental Care", "keywords": [], "websites": [] },
+    "IAB7-18": { "name": "Depression", "keywords": [], "websites": [] },
+    "IAB7-19": { "name": "Dermatology", "keywords": [], "websites": [] },
+    "IAB7-20": { "name": "Diabetes", "keywords": [], "websites": [] },
+    "IAB7-21": { "name": "Epilepsy", "keywords": [], "websites": [] },
+    "IAB7-22": { "name": "GERD/Acid Reflux", "keywords": [], "websites": [] },
+    "IAB7-23": {
+      "name": "Headaches/Migraines",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB7-24": { "name": "Heart Disease", "keywords": [], "websites": [] },
+    "IAB7-25": { "name": "Herbs for Health", "keywords": [], "websites": [] },
+    "IAB7-26": { "name": "Holistic Healing", "keywords": [], "websites": [] },
+    "IAB7-27": {
+      "name": "IBS/Crohn's Disease",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB7-28": {
+      "name": "Incest/Abuse Support",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB7-29": { "name": "Incontinence", "keywords": [], "websites": [] },
+    "IAB7-30": { "name": "Infertility", "keywords": [], "websites": [] },
+    "IAB7-31": { "name": "Men's Health", "keywords": [], "websites": [] },
+    "IAB7-32": { "name": "Nutrition", "keywords": [], "websites": [] },
+    "IAB7-33": { "name": "Orthopedics", "keywords": [], "websites": [] },
+    "IAB7-34": {
+      "name": "Panic/Anxiety Disorders",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB7-35": { "name": "Pediatrics", "keywords": [], "websites": [] },
+    "IAB7-36": { "name": "Physical Therapy", "keywords": [], "websites": [] },
+    "IAB7-37": {
+      "name": "Psychology/Psychiatry",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB7-38": { "name": "Senior Health", "keywords": [], "websites": [] },
+    "IAB7-39": { "name": "Sexuality", "keywords": [], "websites": [] },
+    "IAB7-40": { "name": "Sleep Disorders", "keywords": [], "websites": [] },
+    "IAB7-41": { "name": "Smoking Cessation", "keywords": [], "websites": [] },
+    "IAB7-42": { "name": "Substance Abuse", "keywords": [], "websites": [] },
+    "IAB7-43": { "name": "Thyroid Disease", "keywords": [], "websites": [] },
+    "IAB7-44": { "name": "Weight Loss", "keywords": [], "websites": [] },
+    "IAB7-45": { "name": "Women's Health", "keywords": [], "websites": [] },
+    "IAB8": {
+      "name": "Food & Drink",
+      "keywords": [
+        "food",
+        "drink",
+        "cuisine",
+        "cooking",
+        "recipes",
+        "restaurant",
+        "culinary",
+        "beverages",
+        "cook",
+        "dining"
+      ],
+      "websites": []
+    },
+    "IAB8-1": { "name": "American Cuisine", "keywords": [], "websites": [] },
+    "IAB8-2": {
+      "name": "Barbecues & Grilling",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB8-3": { "name": "Cajun/Creole", "keywords": [], "websites": [] },
+    "IAB8-4": { "name": "Chinese Cuisine", "keywords": [], "websites": [] },
+    "IAB8-5": { "name": "Cocktails/Beer", "keywords": [], "websites": [] },
+    "IAB8-6": { "name": "Coffee/Tea", "keywords": [], "websites": [] },
+    "IAB8-7": { "name": "Cuisine-Specific", "keywords": [], "websites": [] },
+    "IAB8-8": { "name": "Desserts & Baking", "keywords": [], "websites": [] },
+    "IAB8-9": { "name": "Dining Out", "keywords": [], "websites": [] },
+    "IAB8-10": { "name": "Food Allergies", "keywords": [], "websites": [] },
+    "IAB8-11": { "name": "French Cuisine", "keywords": [], "websites": [] },
+    "IAB8-12": {
+      "name": "Health/Lowfat Cooking",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB8-13": { "name": "Italian Cuisine", "keywords": [], "websites": [] },
+    "IAB8-14": { "name": "Japanese Cuisine", "keywords": [], "websites": [] },
+    "IAB8-15": { "name": "Mexican Cuisine", "keywords": [], "websites": [] },
+    "IAB8-16": { "name": "Vegan", "keywords": [], "websites": [] },
+    "IAB8-17": { "name": "Vegetarian", "keywords": [], "websites": [] },
+    "IAB8-18": { "name": "Wine", "keywords": [], "websites": [] },
+    "IAB9": {
+      "name": "Hobbies & Interests",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB9-1": { "name": "Art/Technology", "keywords": [], "websites": [] },
+    "IAB9-2": { "name": "Arts & Crafts", "keywords": [], "websites": [] },
+    "IAB9-3": { "name": "Beadwork", "keywords": [], "websites": [] },
+    "IAB9-4": { "name": "Birdwatching", "keywords": ["bird"], "websites": [] },
+    "IAB9-5": { "name": "Board Games/Puzzles", "keywords": [], "websites": [] },
+    "IAB9-6": {
+      "name": "Candle & Soap Making",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB9-7": { "name": "Card Games", "keywords": [], "websites": [] },
+    "IAB9-8": { "name": "Chess", "keywords": [], "websites": [] },
+    "IAB9-9": { "name": "Cigars", "keywords": [], "websites": [] },
+    "IAB9-10": { "name": "Collecting", "keywords": [], "websites": [] },
+    "IAB9-11": { "name": "Comic Books", "keywords": [], "websites": [] },
+    "IAB9-12": { "name": "Drawing/Sketching", "keywords": [], "websites": [] },
+    "IAB9-13": { "name": "Freelance Writing", "keywords": [], "websites": [] },
+    "IAB9-14": { "name": "Genealogy", "keywords": [], "websites": [] },
+    "IAB9-15": { "name": "Getting Published", "keywords": [], "websites": [] },
+    "IAB9-16": {
+      "name": "Guitar",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB9-17": { "name": "Home Recording", "keywords": [], "websites": [] },
+    "IAB9-18": {
+      "name": "Investors & Patents",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB9-19": { "name": "Jewelry Making", "keywords": [], "websites": [] },
+    "IAB9-20": { "name": "Magic & Illusion", "keywords": [], "websites": [] },
+    "IAB9-21": { "name": "Needlework", "keywords": [], "websites": [] },
+    "IAB9-22": { "name": "Painting", "keywords": [], "websites": [] },
+    "IAB9-23": { "name": "Photography", "keywords": [], "websites": [] },
+    "IAB9-24": { "name": "Radio", "keywords": [], "websites": [] },
+    "IAB9-25": { "name": "Roleplaying Games", "keywords": [], "websites": [] },
+    "IAB9-26": { "name": "Sci-Fi & Fantasy", "keywords": [], "websites": [] },
+    "IAB9-27": { "name": "Scrapbooking", "keywords": [], "websites": [] },
+    "IAB9-28": { "name": "Screenwriting", "keywords": [], "websites": [] },
+    "IAB9-29": { "name": "Stamps & Coins", "keywords": [], "websites": [] },
+    "IAB9-30": {
+      "name": "Video & Computer Games",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB9-31": { "name": "Woodworking", "keywords": [], "websites": [] },
+    "IAB10": { "name": "Home & Garden", "keywords": [], "websites": [] },
+    "IAB10-1": { "name": "Appliances", "keywords": [], "websites": [] },
+    "IAB10-2": { "name": "Entertaining", "keywords": [], "websites": [] },
+    "IAB10-3": {
+      "name": "Environmental Safety",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB10-4": { "name": "Gardening", "keywords": [], "websites": [] },
+    "IAB10-5": { "name": "Home Repair", "keywords": [], "websites": [] },
+    "IAB10-6": { "name": "Home Theater", "keywords": [], "websites": [] },
+    "IAB10-7": {
+      "name": "Interior Decorating",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB10-8": { "name": "Landscaping", "keywords": [], "websites": [] },
+    "IAB10-9": {
+      "name": "Remodeling & Construction",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB11": {
+      "name": "Law, Gov't & Politics",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB11-1": { "name": "Immigration", "keywords": [], "websites": [] },
+    "IAB11-2": { "name": "Legal Issues", "keywords": [], "websites": [] },
+    "IAB11-3": {
+      "name": "U.S. Government Resources",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB11-4": { "name": "Politics", "keywords": [], "websites": [] },
+    "IAB11-5": { "name": "Commentary", "keywords": [], "websites": [] },
+    "IAB12": {
+      "name": "News",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB12-1": { "name": "International News", "keywords": [], "websites": [] },
+    "IAB12-2": { "name": "National News", "keywords": [], "websites": [] },
+    "IAB12-3": { "name": "Local News", "keywords": [], "websites": [] },
+    "IAB13": { "name": "Personal Finance", "keywords": [], "websites": [] },
+    "IAB13-1": {
+      "name": "Beginning Investing",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB13-2": {
+      "name": "Credit/Debt & Loans",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB13-3": { "name": "Financial News", "keywords": [], "websites": [] },
+    "IAB13-4": { "name": "Financial Planning", "keywords": [], "websites": [] },
+    "IAB13-5": { "name": "Hedge Fund", "keywords": [], "websites": [] },
+    "IAB13-6": { "name": "Insurance", "keywords": [], "websites": [] },
+    "IAB13-7": { "name": "Investing", "keywords": [], "websites": [] },
+    "IAB13-8": { "name": "Mutual Funds", "keywords": [], "websites": [] },
+    "IAB13-9": { "name": "Options", "keywords": [], "websites": [] },
+    "IAB13-10": {
+      "name": "Retirement Planning",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB13-11": { "name": "Stocks", "keywords": [], "websites": [] },
+    "IAB13-12": { "name": "Tax Planning", "keywords": [], "websites": [] },
+    "IAB14": { "name": "Society", "keywords": [], "websites": [] },
+    "IAB14-1": { "name": "Dating", "keywords": [], "websites": [] },
+    "IAB14-2": { "name": "Divorce Support", "keywords": [], "websites": [] },
+    "IAB14-3": { "name": "Gay Life", "keywords": [], "websites": [] },
+    "IAB14-4": { "name": "Marriage", "keywords": [], "websites": [] },
+    "IAB14-5": { "name": "Senior Living", "keywords": [], "websites": [] },
+    "IAB14-6": { "name": "Teens", "keywords": [], "websites": [] },
+    "IAB14-7": { "name": "Weddings", "keywords": [], "websites": [] },
+    "IAB14-8": { "name": "Ethnic Specific", "keywords": [], "websites": [] },
+    "IAB15": { "name": "Science", "keywords": [], "websites": [] },
+    "IAB15-1": { "name": "Astrology", "keywords": [], "websites": [] },
+    "IAB15-2": { "name": "Biology", "keywords": [], "websites": [] },
+    "IAB15-3": { "name": "Chemistry", "keywords": [], "websites": [] },
+    "IAB15-4": { "name": "Geology", "keywords": [], "websites": [] },
+    "IAB15-5": {
+      "name": "Paranormal Phenomena",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB15-6": { "name": "Physics", "keywords": [], "websites": [] },
+    "IAB15-7": { "name": "Space/Astronomy", "keywords": [], "websites": [] },
+    "IAB15-8": { "name": "Geography", "keywords": [], "websites": [] },
+    "IAB15-9": { "name": "Botany", "keywords": [], "websites": [] },
+    "IAB15-10": { "name": "Weather", "keywords": [], "websites": [] },
+    "IAB16": { "name": "Pets", "keywords": [], "websites": [] },
+    "IAB16-1": { "name": "Aquariums", "keywords": [], "websites": [] },
+    "IAB16-2": { "name": "Birds", "keywords": [], "websites": [] },
+    "IAB16-3": { "name": "Cats", "keywords": [], "websites": [] },
+    "IAB16-4": { "name": "Dogs", "keywords": [], "websites": [] },
+    "IAB16-5": { "name": "Large Animals", "keywords": [], "websites": [] },
+    "IAB16-6": { "name": "Reptiles", "keywords": [], "websites": [] },
+    "IAB16-7": {
+      "name": "Veterinary Medicine",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB17": { "name": "Sports", "keywords": [], "websites": [] },
+    "IAB17-1": { "name": "Auto Racing", "keywords": [], "websites": [] },
+    "IAB17-2": { "name": "Baseball", "keywords": [], "websites": [] },
+    "IAB17-3": { "name": "Bicycling", "keywords": [], "websites": [] },
+    "IAB17-4": { "name": "Bodybuilding", "keywords": [], "websites": [] },
+    "IAB17-5": { "name": "Boxing", "keywords": [], "websites": [] },
+    "IAB17-6": { "name": "Canoeing/Kayaking", "keywords": [], "websites": [] },
+    "IAB17-7": { "name": "Cheerleading", "keywords": [], "websites": [] },
+    "IAB17-8": { "name": "Climbing", "keywords": [], "websites": [] },
+    "IAB17-9": { "name": "Cricket", "keywords": [], "websites": [] },
+    "IAB17-10": { "name": "Figure Skating", "keywords": [], "websites": [] },
+    "IAB17-11": { "name": "Fly Fishing", "keywords": [], "websites": [] },
+    "IAB17-12": { "name": "Football", "keywords": [], "websites": [] },
+    "IAB17-13": {
+      "name": "Freshwater Fishing",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB17-14": { "name": "Game & Fish", "keywords": [], "websites": [] },
+    "IAB17-15": { "name": "Golf", "keywords": [], "websites": [] },
+    "IAB17-16": { "name": "Horse Racing", "keywords": [], "websites": [] },
+    "IAB17-17": { "name": "Horses", "keywords": [], "websites": [] },
+    "IAB17-18": { "name": "Hunting/Shooting", "keywords": [], "websites": [] },
+    "IAB17-19": { "name": "Inline Skating", "keywords": [], "websites": [] },
+    "IAB17-20": { "name": "Martial Arts", "keywords": [], "websites": [] },
+    "IAB17-21": { "name": "Mountain Biking", "keywords": [], "websites": [] },
+    "IAB17-22": { "name": "NASCAR Racing", "keywords": [], "websites": [] },
+    "IAB17-23": { "name": "Olympics", "keywords": [], "websites": [] },
+    "IAB17-24": { "name": "Paintball", "keywords": [], "websites": [] },
+    "IAB17-25": {
+      "name": "Power & Motorcycles",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB17-26": { "name": "Pro Basketball", "keywords": [], "websites": [] },
+    "IAB17-27": { "name": "Pro Ice Hockey", "keywords": [], "websites": [] },
+    "IAB17-28": { "name": "Rodeo", "keywords": [], "websites": [] },
+    "IAB17-29": { "name": "Rugby", "keywords": [], "websites": [] },
+    "IAB17-30": { "name": "Running/Jogging", "keywords": [], "websites": [] },
+    "IAB17-31": { "name": "Sailing", "keywords": [], "websites": [] },
+    "IAB17-32": { "name": "Saltwater Fishing", "keywords": [], "websites": [] },
+    "IAB17-33": { "name": "Scuba Diving", "keywords": [], "websites": [] },
+    "IAB17-34": { "name": "Skateboarding", "keywords": [], "websites": [] },
+    "IAB17-35": { "name": "Skiing", "keywords": [], "websites": [] },
+    "IAB17-36": { "name": "Snowboarding", "keywords": [], "websites": [] },
+    "IAB17-37": {
+      "name": "Surfing/Bodyboarding",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB17-38": { "name": "Swimming", "keywords": [], "websites": [] },
+    "IAB17-39": {
+      "name": "Table Tennis/Ping-Pong",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB17-40": { "name": "Tennis", "keywords": [], "websites": [] },
+    "IAB17-41": { "name": "Volleyball", "keywords": [], "websites": [] },
+    "IAB17-42": { "name": "Walking", "keywords": [], "websites": [] },
+    "IAB17-43": {
+      "name": "Waterski/Wakeboard",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB17-44": { "name": "World Soccer", "keywords": [], "websites": [] },
+    "IAB18": { "name": "Style & Fashion", "keywords": [], "websites": [] },
+    "IAB18-1": { "name": "Beauty", "keywords": [], "websites": [] },
+    "IAB18-2": { "name": "Body Art", "keywords": [], "websites": [] },
+    "IAB18-3": { "name": "Fashion", "keywords": [], "websites": [] },
+    "IAB18-4": { "name": "Jewelry", "keywords": [], "websites": [] },
+    "IAB18-5": { "name": "Clothing", "keywords": [], "websites": [] },
+    "IAB18-6": { "name": "Accessories", "keywords": [], "websites": [] },
+    "IAB19": {
+      "name": "Technology & Computing",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB19-1": { "name": "3-D Graphics", "keywords": [], "websites": [] },
+    "IAB19-2": { "name": "Animation", "keywords": [], "websites": [] },
+    "IAB19-3": { "name": "Antivirus Software", "keywords": [], "websites": [] },
+    "IAB19-4": { "name": "C/C++", "keywords": [], "websites": [] },
+    "IAB19-5": {
+      "name": "Cameras & Camcorders",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB19-6": { "name": "Cell Phones", "keywords": [], "websites": [] },
+    "IAB19-7": {
+      "name": "Computer Certification",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB19-8": {
+      "name": "Computer Networking",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB19-9": {
+      "name": "Computer Peripherals",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB19-10": { "name": "Computer Reviews", "keywords": [], "websites": [] },
+    "IAB19-11": { "name": "Data Centers", "keywords": [], "websites": [] },
+    "IAB19-12": { "name": "Databases", "keywords": [], "websites": [] },
+    "IAB19-13": {
+      "name": "Desktop Publishing",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB19-14": { "name": "Desktop Video", "keywords": [], "websites": [] },
+    "IAB19-15": { "name": "Email", "keywords": [], "websites": [] },
+    "IAB19-16": { "name": "Graphics Software", "keywords": [], "websites": [] },
+    "IAB19-17": { "name": "Home Video/DVD", "keywords": [], "websites": [] },
+    "IAB19-18": {
+      "name": "Internet Technology",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB19-19": { "name": "Java", "keywords": [], "websites": [] },
+    "IAB19-20": { "name": "JavaScript", "keywords": [], "websites": [] },
+    "IAB19-21": { "name": "Mac Support", "keywords": [], "websites": [] },
+    "IAB19-22": { "name": "MP3/MIDI", "keywords": [], "websites": [] },
+    "IAB19-23": { "name": "Net Conferencing", "keywords": [], "websites": [] },
+    "IAB19-24": { "name": "Net for Beginners", "keywords": [], "websites": [] },
+    "IAB19-25": { "name": "Network Security", "keywords": [], "websites": [] },
+    "IAB19-26": { "name": "Palmtops/PDAs", "keywords": [], "websites": [] },
+    "IAB19-27": { "name": "PC Support", "keywords": [], "websites": [] },
+    "IAB19-28": { "name": "Portable", "keywords": [], "websites": [] },
+    "IAB19-29": { "name": "Entertainment", "keywords": [], "websites": [] },
+    "IAB19-30": {
+      "name": "Shareware/Freeware",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB19-31": { "name": "Unix", "keywords": [], "websites": [] },
+    "IAB19-32": { "name": "Visual Basic", "keywords": [], "websites": [] },
+    "IAB19-33": { "name": "Web Clip Art", "keywords": [], "websites": [] },
+    "IAB19-34": { "name": "Web Design/HTML", "keywords": [], "websites": [] },
+    "IAB19-35": { "name": "Web Search", "keywords": [], "websites": [] },
+    "IAB19-36": { "name": "Windows", "keywords": [], "websites": [] },
+    "IAB20": { "name": "Travel", "keywords": [], "websites": [] },
+    "IAB20-1": { "name": "Adventure Travel", "keywords": [], "websites": [] },
+    "IAB20-2": { "name": "Africa", "keywords": [], "websites": [] },
+    "IAB20-3": { "name": "Air Travel", "keywords": [], "websites": [] },
+    "IAB20-4": {
+      "name": "Australia & New Zealand",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB20-5": { "name": "Bed & Breakfasts", "keywords": [], "websites": [] },
+    "IAB20-6": { "name": "Budget Travel", "keywords": [], "websites": [] },
+    "IAB20-7": {
+      "name": "Business Travel",
+      "keywords": ["flight"],
+      "websites": []
+    },
+    "IAB20-8": { "name": "By US Locale", "keywords": [], "websites": [] },
+    "IAB20-9": { "name": "Camping", "keywords": [], "websites": [] },
+    "IAB20-10": { "name": "Canada", "keywords": [], "websites": [] },
+    "IAB20-11": { "name": "Caribbean", "keywords": [], "websites": [] },
+    "IAB20-12": { "name": "Cruises", "keywords": [], "websites": [] },
+    "IAB20-13": { "name": "Eastern Europe", "keywords": [], "websites": [] },
+    "IAB20-14": { "name": "Europe", "keywords": [], "websites": [] },
+    "IAB20-15": { "name": "France", "keywords": [], "websites": [] },
+    "IAB20-16": { "name": "Greece", "keywords": [], "websites": [] },
+    "IAB20-17": {
+      "name": "Honeymoons/Getaways",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB20-18": { "name": "Hotels", "keywords": [], "websites": [] },
+    "IAB20-19": { "name": "Italy", "keywords": [], "websites": [] },
+    "IAB20-20": { "name": "Japan", "keywords": [], "websites": [] },
+    "IAB20-21": {
+      "name": "Mexico & Central America",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB20-22": { "name": "National Parks", "keywords": [], "websites": [] },
+    "IAB20-23": { "name": "South America", "keywords": [], "websites": [] },
+    "IAB20-24": { "name": "Spas", "keywords": [], "websites": [] },
+    "IAB20-25": { "name": "Theme Parks", "keywords": [], "websites": [] },
+    "IAB20-26": {
+      "name": "Traveling with Kids",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB20-27": { "name": "United Kingdom", "keywords": [], "websites": [] },
+    "IAB21": { "name": "Real Estate", "keywords": [], "websites": [] },
+    "IAB21-1": { "name": "Apartments", "keywords": [], "websites": [] },
+    "IAB21-2": { "name": "Architects", "keywords": [], "websites": [] },
+    "IAB21-3": {
+      "name": "Buying/Selling Homes",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB22": { "name": "Shopping", "keywords": [], "websites": [] },
+    "IAB22-1": {
+      "name": "Contests & Freebies",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB22-2": { "name": "Couponing", "keywords": [], "websites": [] },
+    "IAB22-3": { "name": "Comparison", "keywords": [], "websites": [] },
+    "IAB22-4": { "name": "Engines", "keywords": [], "websites": [] },
+    "IAB23": {
+      "name": "Religion & Spirituality",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB23-1": {
+      "name": "Alternative Religions",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB23-2": {
+      "name": "Atheism/Agnosticism",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB23-3": { "name": "Buddhism", "keywords": [], "websites": [] },
+    "IAB23-4": { "name": "Catholicism", "keywords": [], "websites": [] },
+    "IAB23-5": { "name": "Christianity", "keywords": [], "websites": [] },
+    "IAB23-6": { "name": "Hinduism", "keywords": [], "websites": [] },
+    "IAB23-7": { "name": "Islam", "keywords": [], "websites": [] },
+    "IAB23-8": { "name": "Judaism", "keywords": [], "websites": [] },
+    "IAB23-9": { "name": "Latter-Day Saints", "keywords": [], "websites": [] },
+    "IAB23-10": { "name": "Pagan/Wiccan", "keywords": [], "websites": [] },
+    "IAB24": { "name": "Uncategorized", "keywords": [], "websites": [] },
+    "IAB25": { "name": "Non-Standard Content", "keywords": [], "websites": [] },
+    "IAB25-1": { "name": "Unmoderated UGC", "keywords": [], "websites": [] },
+    "IAB25-2": {
+      "name": "Extreme Graphic/Explicit Violence",
+      "keywords": [],
+      "websites": []
+    },
+    "IAB25-3": { "name": "Pornography", "keywords": [], "websites": [] },
+    "IAB25-4": { "name": "Profane Content", "keywords": [], "websites": [] },
+    "IAB25-5": { "name": "Hate Content", "keywords": [], "websites": [] },
+    "IAB25-6": { "name": "Under Construction", "keywords": [], "websites": [] },
+    "IAB25-7": { "name": "Incentivized", "keywords": [], "websites": [] },
+    "IAB26": { "name": "Illegal Content", "keywords": [], "websites": [] },
+    "IAB26-1": { "name": "Illegal Content", "keywords": [], "websites": [] },
+    "IAB26-2": { "name": "Warez", "keywords": [], "websites": [] },
+    "IAB26-3": { "name": "Spyware/Malware", "keywords": [], "websites": [] },
+    "IAB26-4": {
+      "name": "Copyright Infringement",
+      "keywords": [],
+      "websites": []
+    }
+  }
+}
